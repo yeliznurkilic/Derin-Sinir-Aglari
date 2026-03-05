@@ -1,4 +1,4 @@
-# Derin Sinir Ağları - Ödevler
+# Derin Sinir Ağları
 
 Bu repo, **Derin Sinir Ağları** dersi kapsamında yapılan ödevleri içermektedir.
 
@@ -18,9 +18,7 @@ Bu projede **CIFAR-10** veri seti kullanılmıştır.
 
 Veri seti özellikleri:
 
-* 60000 görüntü
-* 10 farklı sınıf
-* 32x32 piksel RGB görüntüler
+* 60000 görüntü, 10 farklı sınıf, 32x32 piksel RGB görüntüler
 
 Sınıflar:
 
