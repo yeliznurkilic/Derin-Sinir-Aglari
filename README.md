@@ -22,16 +22,7 @@ Veri seti özellikleri:
 
 Sınıflar:
 
-* airplane
-* automobile
-* bird
-* cat
-* deer
-* dog
-* frog
-* horse
-* ship
-* truck
+* airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck
 
 ### Programın Çalışma Mantığı
 
@@ -48,21 +39,6 @@ Program aşağıdaki adımlarla çalışır:
 6. En yakın **k komşu** belirlenir
 7. Çoğunluk oyu ile sınıf tahmini yapılır
 
-### Program Kullanımı
-
-Program çalıştırıldığında kullanıcıdan şu bilgiler istenir:
-
-```
-Mesafe seçin (L1 / L2):
-k değerini giriniz:
-Test örneği index giriniz (0-9999):
-```
-
-Program daha sonra:
-
-* Seçilen görüntüyü gösterir
-* Tahmin edilen sınıfı yazdırır
-* Gerçek sınıfı yazdırır
 
 ### Klasör Yapısı
 
@@ -73,7 +49,3 @@ Derin-Sinir-Aglari
 │     ├── knnAlgorithm.py
 │     └── cifar-10-batches-py
 ```
-
-### Amaç
-
-Bu ödevin amacı **k-NN algoritmasının temel mantığını anlamak ve görüntü verileri üzerinde uygulamaktır.**
