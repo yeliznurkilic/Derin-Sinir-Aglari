@@ -49,3 +49,49 @@ Derin-Sinir-Aglari
 │     ├── knnAlgorithm.py
 │     └── cifar-10-batches-py
 ```
+## 📁 Ödev-2: Deep Learning Makale Sunumu ve CNN Matematiksel İşlemler
+
+Bu ödev iki bölümden oluşmaktadır.
+
+### 1️⃣ Deep Learning Makalesinin İncelenmesi ve Sunum Hazırlama
+
+Bu bölümde **“An Introductory Review of Deep Learning for Prediction Models With Big Data”** adlı makale incelenmiş ve içeriği özetlenerek bir sunum hazırlanmıştır.
+
+Sunumda ele alınan başlıca konular:
+
+* Deep Learning ve Big Data
+* Sinir ağlarının tarihsel gelişimi
+* Yapay nöron modeli
+* Sinir ağı mimarileri
+* Convolutional Neural Networks (CNN)
+* Deep Belief Networks (DBN)
+* Autoencoder
+* Long Short-Term Memory (LSTM)
+* Deep Learning uygulamaları, avantajları ve sınırlamaları
+
+### 2️⃣ CNN Slaytlarındaki Matematiksel İşlemlerin İncelenmesi
+
+Bu bölümde **DL_L5_CNNs** ders slaytlarında bulunan matematiksel işlemler detaylı olarak araştırılmıştır. Özellikle **22. ve 29. sayfalarda** yer alan işlemler incelenmiştir.
+
+İncelenen konular:
+
+* CNN mimarisinde **Stride ve Padding**
+* Padding işlemi ile giriş matrisinin yeni boyutunun hesaplanması
+* Convolution sonrası **feature map (çıktı boyutu) hesaplama**
+* **Softmax fonksiyonunun matematiksel yapısı**
+* Softmax ile olasılık hesaplama örneği
+
+### Klasör Yapısı
+
+```
+Derin-Sinir-Aglari
+│
+├── Odev-1
+│     ├── knnAlgorithm.py
+│     └── cifar-10-batches-py
+│
+├── Odev-2
+│     ├── makaleSunumu.pptx
+│     ├── CNN_odev.pdf
+
+```
